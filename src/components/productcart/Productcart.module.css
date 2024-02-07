@@ -1,0 +1,72 @@
+.cardouter {
+  height: fit-content;
+  width: 300px;
+  background-color: rgb(241, 250, 252);
+  margin: auto;
+  border: 3px solid ;
+}
+.cardimage {
+  height: auto;
+  width: 300px;
+}
+.contentparent {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.content1 {
+  background-color: rgb(16, 184, 16);
+  color: aliceblue;
+  border-radius: 8px;
+  width: 100px;
+  height: fit-content;
+  font-weight:bold;
+  padding: 4px; 
+
+}
+.content2 {
+  font-size: 20px;
+  color: black;
+  font:bolder;
+  display:flex;
+  align-items: center;
+}
+.outertext {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+}
+.outertext1{
+font-size: 12px;
+text-align: center;
+}
+.buttons{
+    display: flex;
+    background-color: black;
+    width: 100px;
+    height: fit-content;
+    padding: 6px;
+    justify-content: space-around;
+    border-radius: 30px;
+    margin: 20px;
+    color: white;
+    align-items: center;
+}
+.button1{
+color:white;
+height: fit-content;
+background-color: transparent;
+}
+
+.actualprice{
+    font-size: small;
+    color:gray;
+   text-decoration: line-through;
+}
+
+.discountprice{
+    font-size: large;
+    font-weight: 700;
+    
+}

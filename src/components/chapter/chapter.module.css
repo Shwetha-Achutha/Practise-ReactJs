@@ -1,0 +1,12 @@
+.box{
+    background-color: rgb(236, 137, 7);
+    width: 90px;
+    height:100px
+}
+
+.inner
+{
+    background-color: antiquewhite;
+    display: flex;
+    
+}

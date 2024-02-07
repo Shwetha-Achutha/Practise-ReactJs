@@ -1,0 +1,29 @@
+.main
+{
+    border: 15px;
+    padding: 300px;
+    margin: 30px;
+    height: auto;
+}
+
+
+.outertext {
+    font-size: large;
+    font-weight: 300;
+    color:black;
+
+}
+.innertext {
+  text-align: center;
+  color: white;
+  font-weight: 200;
+  background-color: rgb(86, 222, 231);
+  box-sizing: border-box;
+  padding: 4px;
+}
+.name
+{
+    color:white;
+
+}
+
