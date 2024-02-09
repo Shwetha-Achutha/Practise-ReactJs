@@ -1,0 +1,35 @@
+.header
+{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:justify;
+    border-bottom-width: 80px;
+
+}
+
+.icon
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px;
+    background-color: aqua;
+
+}
+
+.outer
+{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: aqua;
+    height: 200px;
+    width: 600px;
+    padding: 3px;
+
+}
+.header2{
+    text-align-last:center;
+    justify-content: last baseline;
+    
+}

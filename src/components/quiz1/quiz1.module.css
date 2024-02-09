@@ -1,0 +1,48 @@
+.main {
+  background-color: red;
+  height: 600px;
+  width: 399px;
+  padding-top: 3px;
+  position: top;
+}
+
+.text {
+  display: flex;
+  font-weight: 200;
+  justify-content: space-between;
+  padding: 60px;
+  border-bottom: 70px;
+  
+}
+
+.inner {
+  font-size: 15px;
+  align-content: flex-start;
+  
+}
+.score {
+  font-size: small;
+  justify-content: space-around;
+}
+.button:hover {
+  color: rgb(61, 200, 224);
+  border-color: aliceblue;
+}
+.box {
+  background-color: white;
+  width: 400px;
+  height: 100px;
+  margin-right: 30px;
+}
+.button {
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+
+.text1{
+  display: flex;
+  font-weight: 200;
+  text-align: justify;
+  justify-content: space-between;
+  bottom: 50px;
+}
