@@ -4,6 +4,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align:justify;
     border-bottom-width: 80px;
+    color: white;
 
 }
 
@@ -14,7 +15,7 @@
     border-radius: 50%;
     overflow: hidden;
     margin: 20px;
-    background-color: aqua;
+    background-color: rgb(118, 179, 214);
 
 }
 
@@ -22,9 +23,9 @@
 {
     display: flex;
     justify-content:space-evenly;
-    background-color: aqua;
+    background-color: rgb(133, 196, 233);
     height: 200px;
-    width: 600px;
+    width: 700px;
     padding: 3px;
 
 }
